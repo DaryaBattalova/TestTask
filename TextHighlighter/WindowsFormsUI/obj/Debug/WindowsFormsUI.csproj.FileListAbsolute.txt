@@ -1,0 +1,24 @@
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form1.resources
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.Cache
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\bin\Debug\AngleSharp.dll
+C:\Users\darya\Desktop\TextHighlighter\TextHighlighter\WindowsFormsUI\bin\Debug\AngleSharp.xml
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe.config
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\bin\Debug\WindowsFormsUI.exe
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\bin\Debug\WindowsFormsUI.pdb
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\bin\Debug\AngleSharp.dll
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\bin\Debug\AngleSharp.xml
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.csprojResolveAssemblyReference.cache
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.Form1.resources
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.Properties.Resources.resources
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.GenerateResource.Cache
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.exe
+C:\Users\darya\Desktop\Новая папка (3)\TestTask\TextHighlighter\TextHighlighter\WindowsFormsUI\obj\Debug\WindowsFormsUI.pdb
